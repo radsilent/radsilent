@@ -1,8 +1,6 @@
 - I’m @radsilent
-- I’m interested using systems engineering and systems design to auto generate software
-- I’m currently learning Java, SysML V2, and Python
-- I’m looking to collaborate on AI for MBSE
-- Reach me https://www.linkedin.com/in/matthew-collaro/
+
+- I’m currently learning Java, and Python
 
 
 <!---
